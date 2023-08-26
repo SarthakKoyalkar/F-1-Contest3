@@ -1,0 +1,48 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap");
+.my-d{
+  color: #FFF;
+font-family: Poppins;
+font-size: 28px;
+font-style: normal;
+font-weight: 700;
+line-height: 28px; /* 100% */
+letter-spacing: -0.28px;
+background-color: #F94A3D;
+text-decoration: none;
+padding-inline: 3px;
+padding-top: -3px;
+padding-bottom: -3px;
+border-radius: 5px;
+}
+.my-delivery{
+  text-decoration: none;
+  font-family: Poppins;
+font-size: 28px;
+font-style: normal;
+font-weight: 700;
+line-height: 28px; /* 100% */
+letter-spacing: -0.28px;
+color: #F94A3D;
+}
+.my-nav{
+  text-decoration: none;
+  color: black;
+
+}
+.nav-list>a{
+  display: inline-block;
+  padding-inline: 10px;
+}
+.search-icon{
+  margin-top: 10px;
+}
+.search{
+  margin-top: 8px;
+}
+.sign-in{
+  background-color: #F94A3D;
+  border-radius: 10px;
+  color: white;
+  border: none;
+  padding: 2px;
+}
